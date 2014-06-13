@@ -1,3 +1,5 @@
+#2014.6.13 16:40
+
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
@@ -250,8 +252,7 @@
 74.125.29.251	writely.l.google.com
 74.125.29.251	writely-china.l.google.com
 74.125.29.251	writely-com.l.google.com
-#209.141.45.53	www.google.com
-123.205.251.80  www.google.com
+209.141.45.53	www.google.com
 74.125.29.251	ytstatic.l.google.com
 
 #Gmail 74.125.128.83
@@ -413,7 +414,6 @@
 74.125.226.42	yt3.ggpht.com
 
 74.125.29.251	appspot.com
-74.125.29.251	proxykarel.appspot.com
 74.125.29.251	chrometophone.appspot.com
 74.125.29.251	evolutionofweb.appspot.com
 74.125.29.251	googcloudlabs.appspot.com
