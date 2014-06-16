@@ -1,4 +1,4 @@
-#2014.6.13 16:40
+#2014.6.16 23:10
 
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -125,6 +125,7 @@
 74.125.29.251	images.google.com
 74.125.29.251	images.l.google.com
 74.125.29.251	investor.google.com
+74.125.29.251	ipv4.google.com
 74.125.29.251	jmt0.google.com
 74.125.29.251	kh.google.com
 74.125.29.251	kh.l.google.com
@@ -252,7 +253,8 @@
 74.125.29.251	writely.l.google.com
 74.125.29.251	writely-china.l.google.com
 74.125.29.251	writely-com.l.google.com
-209.141.45.53	www.google.com
+#209.141.45.53	www.google.com
+74.125.29.251	www.google.com
 74.125.29.251	ytstatic.l.google.com
 
 #Gmail 74.125.128.83
@@ -342,6 +344,7 @@
 74.125.226.42	gp6.googleusercontent.com
 74.125.226.42	hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
 74.125.226.42	i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+74.125.226.42	images-blogger-opensocial.googleusercontent.com
 74.125.226.42	images1-focus-opensocial.googleusercontent.com
 74.125.226.42	images2-focus-opensocial.googleusercontent.com
 74.125.226.42	images3-focus-opensocial.googleusercontent.com
@@ -414,6 +417,7 @@
 74.125.226.42	yt3.ggpht.com
 
 74.125.29.251	appspot.com
+74.125.29.251	proxykarel.appspot.com
 74.125.29.251	chrometophone.appspot.com
 74.125.29.251	evolutionofweb.appspot.com
 74.125.29.251	googcloudlabs.appspot.com
@@ -446,6 +450,7 @@
 74.125.29.251	mts0.googleapis.com
 74.125.29.251	mts1.googleapis.com
 74.125.29.251	redirector-bigcache.googleapis.com
+74.125.29.251	storage.googleapis.com
 74.125.29.251	translate.googleapis.com
 74.125.29.251	www.googleapis.com
 
@@ -615,24 +620,6 @@
 96.7.101.210	si5.twimg.com
 96.7.101.210	image-proxy-origin.twimg.com
 
-173.236.110.98	oi40.tinypic.com
-173.236.110.98	oi41.tinypic.com
-173.236.110.98	oi42.tinypic.com
-173.236.110.98	oi43.tinypic.com
-173.236.110.98	oi44.tinypic.com
-173.236.110.98	oi45.tinypic.com
-173.236.110.98	oi46.tinypic.com
-173.236.110.98	oi47.tinypic.com
-173.236.110.98	oi48.tinypic.com
-173.236.110.98	oi49.tinypic.com
-173.236.110.98	oi50.tinypic.com
-173.236.110.98	oi51.tinypic.com
-173.236.110.98	oi52.tinypic.com
-173.236.110.98	oi53.tinypic.com
-173.236.110.98	oi54.tinypic.com
-173.236.110.98	oi55.tinypic.com
-173.236.110.98	oi56.tinypic.com
-
 50.97.168.42	web1.twitpic.com
 50.23.200.233	web10.twitpic.com
 50.97.168.43	web2.twitpic.com
@@ -717,5 +704,3 @@
 198.35.26.96 www.wikimediafoundation.org
 198.35.26.96 mediawiki.org
 198.35.26.96 www.mediawiki.org
-
-162.158.0.0	cdn.sstatic.net
