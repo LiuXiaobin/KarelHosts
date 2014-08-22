@@ -1,4 +1,4 @@
-#2014.8.14 16:40
+#2014.8.22 9:20
 
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -259,14 +259,10 @@
 210.242.125.84	ytstatic.l.google.com
 
 #Gmail 74.125.128.83
-173.194.72.189 chatenabled.mail.google.com
-173.194.72.189 filetransferenabled.mail.google.com
-74.125.23.17 www.gmail.com
-74.125.235.118 www.gmail.com
-74.125.23.17 gmail.com
-74.125.235.118	gmail.com
-#116.251.209.82 mail.google.com
-74.207.242.141	mail.google.com
+173.194.72.189	chatenabled.mail.google.com
+173.194.72.189	filetransferenabled.mail.google.com
+74.125.205.83	gmail.com
+74.125.205.83	mail.google.com
 
 #GStatic
 210.242.125.84	csi.gstatic.com
@@ -274,10 +270,10 @@
 210.242.125.84	g1.gstatic.com
 210.242.125.84	g2.gstatic.com
 210.242.125.84	g3.gstatic.com
-173.230.153.232 encrypted-tbn0.gstatic.com
-210.242.125.84 encrypted-tbn1.gstatic.com
-210.242.125.84 encrypted-tbn2.gstatic.com
-210.242.125.84 encrypted-tbn3.gstatic.com
+173.230.153.232	encrypted-tbn0.gstatic.com
+210.242.125.84	encrypted-tbn1.gstatic.com
+210.242.125.84	encrypted-tbn2.gstatic.com
+210.242.125.84	encrypted-tbn3.gstatic.com
 210.242.125.84	maps.gstatic.com
 210.242.125.84	mt0.gstatic.com
 210.242.125.84	mt1.gstatic.com
@@ -317,10 +313,10 @@
 74.125.207.132	a-oz-opensocial.googleusercontent.com
 74.125.207.132	blogger.googleusercontent.com
 74.125.207.132	bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
-74.125.207.132   ci3.googleusercontent.com
-23.239.21.108   ci4.googleusercontent.com
-74.125.207.132   ci5.googleusercontent.com
-74.125.207.132   ci6.googleusercontent.com
+74.125.207.132	ci3.googleusercontent.com
+23.239.21.108	ci4.googleusercontent.com
+74.125.207.132	ci5.googleusercontent.com
+74.125.207.132	ci6.googleusercontent.com
 74.125.207.132	clients1.googleusercontent.com
 74.125.207.132	clients2.googleusercontent.com
 74.125.207.132	clients3.googleusercontent.com
