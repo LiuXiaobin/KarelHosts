@@ -1,10 +1,10 @@
-#2014.9.1 19:30
-
+#2014.10.7 22:30
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
 
 #Google Services START
+210.242.125.89	0.client-channel.google.com
 210.242.125.89	accounts.google.com
 210.242.125.89	apis.google.com
 210.242.125.89	books.google.com
@@ -254,15 +254,16 @@
 210.242.125.89	writely.l.google.com
 210.242.125.89	writely-china.l.google.com
 210.242.125.89	writely-com.l.google.com
-#119.81.145.120	www.google.com
-210.242.125.89	www.google.com
+210.242.125.98	www.google.ca
+210.242.125.98	www.google.com
 210.242.125.89	ytstatic.l.google.com
 
-#Gmail 74.125.128.83
-173.194.72.189	chatenabled.mail.google.com
-173.194.72.189	filetransferenabled.mail.google.com
-74.125.205.83	gmail.com
-74.125.205.83	mail.google.com
+#Gmail 74.125.205.83
+173.194.72.189 chatenabled.mail.google.com
+173.194.72.189 filetransferenabled.mail.google.com
+64.233.185.17 www.gmail.com
+64.233.185.17 gmail.com
+64.233.185.17 mail.google.com
 
 #GStatic
 210.242.125.89	csi.gstatic.com
@@ -270,10 +271,11 @@
 210.242.125.89	g1.gstatic.com
 210.242.125.89	g2.gstatic.com
 210.242.125.89	g3.gstatic.com
-173.230.153.232	encrypted-tbn0.gstatic.com
-210.242.125.89	encrypted-tbn1.gstatic.com
-210.242.125.89	encrypted-tbn2.gstatic.com
-210.242.125.89	encrypted-tbn3.gstatic.com
+210.242.125.89  encrypted-tbn0.gstatic.com
+210.242.125.89  encrypted-tbn1.gstatic.com
+210.242.125.89  encrypted-tbn2.gstatic.com
+210.242.125.89  encrypted-tbn3.gstatic.com
+210.242.125.89	fonts.gstatic.com
 210.242.125.89	maps.gstatic.com
 210.242.125.89	mt0.gstatic.com
 210.242.125.89	mt1.gstatic.com
@@ -290,7 +292,7 @@
 210.242.125.89	t3.gstatic.com
 210.242.125.89	www.gstatic.com
 
-# GUserContents
+# GUserContents 74.125.207.132
 74.125.207.132	static.googleusercontent.com
 74.125.207.132	0-open-opensocial.googleusercontent.com
 74.125.207.132	0-focus-opensocial.googleusercontent.com
@@ -313,8 +315,10 @@
 74.125.207.132	a-oz-opensocial.googleusercontent.com
 74.125.207.132	blogger.googleusercontent.com
 74.125.207.132	bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+74.125.207.132	ci1.googleusercontent.com
+74.125.207.132	ci2.googleusercontent.com
 74.125.207.132	ci3.googleusercontent.com
-23.239.21.108	ci4.googleusercontent.com
+74.125.207.132	ci4.googleusercontent.com
 74.125.207.132	ci5.googleusercontent.com
 74.125.207.132	ci6.googleusercontent.com
 74.125.207.132	clients1.googleusercontent.com
@@ -451,7 +455,6 @@
 210.242.125.89	storage.googleapis.com
 210.242.125.89	translate.googleapis.com
 210.242.125.89	www.googleapis.com
-
 210.242.125.89	autoproxy-gfwlist.googlecode.com
 210.242.125.89	adblock-chinalist.googlecode.com
 210.242.125.89	chromium.googlecode.com
@@ -541,11 +544,16 @@
 31.13.82.64		code.facebook.com
 31.13.82.64		developers.facebook.com
 31.13.82.64		facebook.com
+31.13.82.64		fb.me
 31.13.82.64		graph.facebook.com
 31.13.82.64		orcart.facebook.com
+31.13.82.64		l.facebook.com
+31.13.82.64		m.facebook.com
 31.13.82.64		upload.facebook.com
+31.13.82.64		vupload.facebook.com
 31.13.82.64		www.facebook.com
 31.13.82.64		zh-CN.facebook.com
+31.13.82.64		zh-tw.facebook.com
 
 31.13.82.64		m.facebook.com
 
@@ -554,17 +562,45 @@
 66.220.145.63	bigzipfiles.facebook.com
 61.213.189.113	creative.ak.fbcdn.net
 66.152.103.74	external.ak.fbcdn.net
+31.13.70.56 scontent-a.xx.fbcdn.net
+31.13.70.56	scontent-b.xx.fbcdn.net
+31.13.70.56	scontent-c.xx.fbcdn.net
+31.13.70.56	scontent-d.xx.fbcdn.net
+31.13.70.56	scontent-e.xx.fbcdn.net
+31.13.70.56 scontent-a-lhr.xx.fbcdn.net
+31.13.70.56 scontent-b-lhr.xx.fbcdn.net
 #Facebook End
 
 #Flickr START
 203.84.197.26	secure.flickr.com
 #Flickr END
 
+#Adobe Activation START
+0.0.0.0	3dns-2.adobe.com
+0.0.0.0	3dns-3.adobe.com
+0.0.0.0	activate.adobe.com
+0.0.0.0	activate-sea.adobe.com
+0.0.0.0	activate-sjc0.adobe.com
+0.0.0.0	adobe-dns.adobe.com
+0.0.0.0	adobe-dns-2.adobe.com
+0.0.0.0	adobe-dns-3.adobe.com
+0.0.0.0	ereg.adobe.com
+0.0.0.0	hl2rcv.adobe.com
+0.0.0.0	practivate.adobe.com
+0.0.0.0	wip3.adobe.com
+0.0.0.0	activate.wip3.adobe.com
+0.0.0.0	ereg.wip3.adobe.com
+0.0.0.0	wwis-dubc1-vip60.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+#Adobe Activation END
+
 #Twitter START
 209.141.47.174	twitter.com
 199.195.254.189	mobile.twitter.com
 199.59.150.142	api.twitter.com
 
+199.16.158.10	about.twitter.com
 199.16.156.47	pic.twitter.com
 199.59.148.136	stream.twitter.com
 199.59.148.137	sitestream.twitter.com
@@ -615,6 +651,14 @@
 208.94.0.61	a.yfrog.com
 208.94.0.61	yfrog.com
 208.94.0.61	www.yfrog.com
+
+199.16.158.11	tweetdeck.com
+199.16.158.11	www.tweetdeck.com
+199.16.158.11	tdweb.twitter.com
+199.16.158.11	api.tweetdeck.com
+199.16.158.11	downloads.tweetdeck.com
+199.16.158.11	tweetdeck.twitter.com
+199.16.158.11	web.tweetdeck.com
 #Twitter END
 
 #YouTube START
@@ -683,3 +727,10 @@
 208.80.154.224 www.wikimediafoundation.org
 208.80.154.224 mediawiki.org
 208.80.154.224 www.mediawiki.org
+
+#Microsoft Live START
+134.170.108.26	onedrive.live.com
+134.170.109.48	skyapi.onedrive.live.com
+134.170.108.224	storage.live.com
+#134.170.30.15	people.live.com
+#Microsoft Live END
