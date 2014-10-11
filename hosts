@@ -1,4 +1,4 @@
-#2014.10.7 22:30
+#2014.10.11 20:00
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
@@ -574,26 +574,6 @@
 #Flickr START
 203.84.197.26	secure.flickr.com
 #Flickr END
-
-#Adobe Activation START
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	adobe-dns.adobe.com
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	hl2rcv.adobe.com
-0.0.0.0	practivate.adobe.com
-0.0.0.0	wip3.adobe.com
-0.0.0.0	activate.wip3.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 lm.licenses.adobe.com
-#Adobe Activation END
 
 #Twitter START
 209.141.47.174	twitter.com
