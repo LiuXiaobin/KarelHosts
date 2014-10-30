@@ -431,7 +431,6 @@
 64.233.166.197	yt3.ggpht.com
 
 210.242.125.113	appspot.com
-210.242.125.113	proxykarel.appspot.com
 210.242.125.113	chrometophone.appspot.com
 210.242.125.113	evolutionofweb.appspot.com
 210.242.125.113	googcloudlabs.appspot.com
@@ -584,7 +583,9 @@
 #Facebook End
 
 #Flickr START
-203.84.197.26	secure.flickr.com
+203.84.197.27	api.flickr.com
+203.84.197.27	secure.flickr.com
+203.84.197.27	csync.flickr.com
 #Flickr END
 
 #Twitter START
