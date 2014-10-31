@@ -1,3 +1,4 @@
+#2014.10.31 13:10
 
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
@@ -264,11 +265,10 @@
 210.242.128.113	writely.l.google.com
 210.242.128.113	writely-china.l.google.com
 210.242.128.113	writely-com.l.google.com
-210.242.125.98	www.google.ca
 210.242.125.98	www.google.com
 210.242.128.113	ytstatic.l.google.com
 
-#Gmail
+#Gmail 74.125.205.83
 210.242.128.113 chatenabled.mail.google.com
 210.242.128.113 filetransferenabled.mail.google.com
 74.125.205.17 www.gmail.com
@@ -431,7 +431,6 @@
 64.233.166.197	yt3.ggpht.com
 
 210.242.128.113	appspot.com
-210.242.128.113	proxykarel.appspot.com
 210.242.128.113	chrometophone.appspot.com
 210.242.128.113	evolutionofweb.appspot.com
 210.242.128.113	googcloudlabs.appspot.com
@@ -588,26 +587,6 @@
 203.84.197.27	secure.flickr.com
 203.84.197.27	csync.flickr.com
 #Flickr END
-
-#Adobe Activation START
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	adobe-dns.adobe.com
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	hl2rcv.adobe.com
-0.0.0.0	practivate.adobe.com
-0.0.0.0	wip3.adobe.com
-0.0.0.0	activate.wip3.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 lm.licenses.adobe.com
-#Adobe Activation END
 
 #Twitter START
 209.141.47.174	twitter.com
